@@ -21,5 +21,4 @@ Organizar os códigos desenvolvidos em aula e praticar conceitos de:
 
 ##  Autor
 
-Teste
-Repositório mantido por **[Isaque Lucio]**, aluno da Fatec Franca-SP.  
+Repositório mantido por **Isaque Lucio**, aluno da Fatec Franca-SP.  
