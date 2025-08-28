@@ -15,9 +15,9 @@ Organizar os códigos desenvolvidos em aula e praticar conceitos de:
 - `projetos/` → Projetos maiores ou trabalhos da disciplina.  
 - `anotacoes/` → Anotações, resumos e materiais de apoio.  
 
-## 🛠️ Tecnologias Utilizadas
-- Linguagem: **Java** (ou substitua pela linguagem que estiver usando)  
-- IDE: **Eclipse / IntelliJ / VS Code**  
+## Tecnologias Utilizadas
+- Linguagem: **Java**
+- IDE: **IntelliJ**  
 
 ##  Autor
 Repositório mantido por **[Isaque Lucio]**, aluno da Fatec Franca-SP.  
