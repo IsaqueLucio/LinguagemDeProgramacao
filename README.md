@@ -16,7 +16,7 @@ Organize the code developed in class and practice concepts such as:
 - `notes/` → Notes, summaries, and support materials.  
 
 ## Technologies Used
-- Language: **Java** (or replace with the language being used)  
+- Language: **Java**
 - IDE: **IntelliJ**  
 
 ## Author
