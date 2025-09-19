@@ -1,25 +1,23 @@
-# Linguagem de Programação - Fatec Franca-SP
+# Programming Language - Fatec Franca-SP
 
-Repositório criado para armazenar atividades, exercícios e projetos desenvolvidos na disciplina **Linguagem de Programação** da Fatec Franca-SP.
+Repository created to store activities, exercises, and projects developed in the **Programming Language** course at Fatec Franca-SP.
 
-## Objetivo
-Organizar os códigos desenvolvidos em aula e praticar conceitos de:
-- Lógica de programação
-- Estruturas de decisão e repetição
-- Funções e modularização
-- Manipulação de dados
-- Introdução a orientação a objetos (quando aplicável)
+## Purpose
+Organize the code developed in class and practice concepts such as:
+- Programming logic  
+- Conditional and looping structures  
+- Functions and modularization  
+- Data manipulation  
+- Introduction to object-oriented programming (when applicable)  
 
-## Estrutura do Repositório
-- `exercicios/` → Exercícios práticos desenvolvidos em sala ou como tarefa.  
-- `projetos/` → Projetos maiores ou trabalhos da disciplina.  
-- `anotacoes/` → Anotações, resumos e materiais de apoio.  
+## Repository Structure
+- `exercises/` → Practical exercises developed in class or as assignments.  
+- `projects/` → Larger projects or course assignments.  
+- `notes/` → Notes, summaries, and support materials.  
 
-## Tecnologias Utilizadas
-- Linguagem: **Java**
+## Technologies Used
+- Language: **Java**
 - IDE: **IntelliJ**  
 
-##  Autor
-
-Teste
-Repositório mantido por **[Isaque Lucio]**, aluno da Fatec Franca-SP.  
+## Author
+Repository maintained by **[Isaque Lucio]**, student at Fatec Franca-SP.  
